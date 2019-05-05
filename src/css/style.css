@@ -6,6 +6,10 @@ body {
     font-family: Lato;
 }
 
+h1 {
+    font-size: 5em;
+    font-weight: 700;
+}
 #content {
     padding-top: 25%;
     text-align: center;
