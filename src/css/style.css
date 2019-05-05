@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background: url("/src/images/cat-high-five.jpg");
+    background: url("../images/cat-high-five.jpg");
     background-size: cover;
     background-position: center;
     color: white;
